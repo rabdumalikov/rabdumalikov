@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Rustam, and I'm an enthusiast of C++ programming and AI technologies.
+
 <!--
 **rabdumalikov/rabdumalikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
